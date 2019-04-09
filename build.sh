@@ -1,2 +1,2 @@
 #!/bin/sh
-pandoc --filter pandoc-citeproc docs/server.md -o server.pdf
+pandoc --filter pandoc-citeproc docs/server.md -o http-server-concurrency.pdf
